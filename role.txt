@@ -1,13 +1,16 @@
 appengine.applications.get
+appengine.instances.delete
 appengine.instances.get
 appengine.instances.list
 appengine.operations.get
 appengine.operations.list
+appengine.services.delete
 appengine.services.get
 appengine.services.list
-appengine.versions.create
+appengine.services.update
 appengine.versions.delete
 appengine.versions.get
 appengine.versions.list
+appengine.versions.update
 resourcemanager.projects.get
 resourcemanager.projects.list
