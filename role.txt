@@ -6,6 +6,7 @@ appengine.operations.list
 appengine.services.get
 appengine.services.list
 appengine.versions.get
+appengine.versions.getFileContents
 appengine.versions.list
 resourcemanager.projects.get
 resourcemanager.projects.list
